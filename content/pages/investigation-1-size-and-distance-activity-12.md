@@ -41,7 +41,7 @@ uid: cc8daef2-68d9-4c36-b5bb-c933c57f103f
 - Write "what is the difference between an observation and a model?"
 - Which of the following is a model or observation (listing of several simple statements)
 
-\[VIDEO\]
+{{< resource uuid="09082246-7d14-4e9a-b8ad-7e54fb4c8669" >}}
 
 ## **Simple Telescope Model**
 
