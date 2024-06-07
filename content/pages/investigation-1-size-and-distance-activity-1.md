@@ -1,45 +1,69 @@
 ---
 content_type: page
-description: 'Investigation 2: Light and Color - Activity 2
-
-  '
+description: Students make a model of a 3D arrangement of blocks and then refine it,
+  based on the quality of predictions it makes and their resulting observations about
+  those predictions. Students then learn to project an image with a curved mirror.
 draft: false
-title: 'Investigation 2: Light and Color - Activity 2'
-uid: bb1d0c90-031d-4fd8-b970-edaabac98829
+title: 'Investigation 1: Size and Distance - Activity 1'
+uid: cc8daef2-68d9-4c36-b5bb-c933c57f103f
 ---
-## **Introduction to Image Processing**
+## **Models in Science / Simple Telescopes** 
 
-Information in images (counts in pixels) vs. how they are displayed (contrast/bias)
+**Overview:** Students make a model of a 3D arrangement of blocks and then refine it, based on the quality of predictions it makes and their resulting observations about those predictions. Students then learn to project an image with a curved mirror.
 
-**Overview:** Students learn how images are displayed in order to gather the maximum information from them using contrast and bias settings. Students apply color tables to create a false color image.
+**Electronic resources:** pics of hanging blocks which students will model: {{% resource_link "dfe305b6-d3a3-42dd-ab62-1673665bd08c" "perspective 1" %}}, {{% resource_link "7c527aff-25da-417b-8757-d0153cc30642" "perspective 2" %}}, {{% resource_link "3b42b2ff-78dd-450c-8f85-ed690b4125ae" "perspective 3" %}}, {{% resource_link "3b26b2fe-dbd4-4352-9f35-5a4c275db901" "perspective 4" %}}
 
-**Electronic resources:** MOBS Prudential Center image (PrudentialCenterMicoObs.fits) ([FITS](http://ocw.mit.edu/ans7870/hs/cai/lecturenotes/PrudentialCenterMicroObs.fits)), ([prudential1](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/image-gallery-2/MITHFH_chandra_inv2_prud1.jpg), [prudential2](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/image-gallery-2/MITHFH_chandra_inv2_prud2.jpg), [prudential3](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/image-gallery-2/MITHFH_chandra_inv2_prud3.jpg), [orion1](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/image-gallery-2/MITHFH_chandra_inv2_orion1.jpg), [orion2](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/image-gallery-2/MITHFH_chandra_inv2_orion2.jpg), [orion3](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/image-gallery-2/MITHFH_chandra_inv2_orion3.jpg), Orion image (orionChallenge.fits) ([FITS](http://ocw.mit.edu/ans7870/hs/cai/lecturenotes/OrionChallenge.fits)), Challenge images (to be reproduced): [Orion (PDF)](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/investigation-2-light-and-color-activity-2/MITHFH_orion.pdf), [prudential (PDF)](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/investigation-2-light-and-color-activity-2/MITHFH_prudential.pdf)
+**Physical resources:** colored clay, Styrofoam blocks, flower wire for supporting clay, colored pencils for drawing predictions.
 
-**Discuss: How do we measure the amount of light collected by a detector?**
+**Building model of blocks:** Observations vs. models vs. predictions:
 
-- Relate "counts" which are the value of each pixel to the particle model of light. Each photon collected is turned into a certain number of electrons which are counted by electronics. More photons → more counts. Demonstrate with an image in ds9.
-- Note: Whenever we measure light, we are really measuring what our instrument "packages", so we have to understand how it works to turn that measurement **back** into a real physical quantity. (Noise comes from packaging effects...)
+- Small groups of youth write down observations about the first image, with first couple observations given by instructors as examples (i.e. "the front face of one block is red" or "the red part overlaps the blue shape").
+- Youth build a physical 3D model of the system with clay and straws, based on observations of the first image alone.
+- Images of modeling process: {{% resource_link "62ffc56e-ec1f-499f-bdb9-df0e00f66772" "clay modeling 1" %}}, {{% resource_link "fcfd5009-6e4f-4452-9053-f2ae824b20f2" "clay modeling 2" %}}, {{% resource_link "58c7112f-7058-419b-8628-d44d187c5a63" "clay modeling 3" %}}, {{% resource_link "8df4d69c-8446-411a-81f7-a5f544be55df" "clay modeling 4" %}} , {{% resource_link "f32892f6-a886-4b60-b69e-5baeebb9ce7f" "clay modeling 5" %}}
+- Youth make predictions (actual 2D color sketches) of what the system looks like from another specified perspective. We'd also show some more outlandish models that still explain the first observation (i.e. blue diamond object extends very far back as a tall box, or back of red square is actually purple).
+- Youth physically label the 3D object as "model" and the 2D drawing as "prediction." Youth groups do a peer review on the predictions other groups have drawn from their model, to make sure the predictions are consistent. (This also allows them to see the range of models created.)
+- Then youth get to see the observation of the second perspective (i.e. new data that results from a testing experiment). They check their predictions against this new observation, and some may have to revise their model to reflect the new data. Our "outlandish" models would definitely have to be revised. Peer review is repeated.
+- We repeat this process for the remaining 2 "new observations," until all groups have an accurate model, which should mostly be the same. However, there will be some differences possible (i.e. in the four observations, we don't see **every** side of **all** objects, and we don't see internal structure of the objects…)
+- Wrap up discussion: Groups come up with their working definition of each of the first three terms, and instructor wraps up discussion with final question.
+    - **Observation**: (a description of **what** has happened in a particular situation)
+    - **Model**: explanation, theory (an explanation of **why** something happens or looks a certain way)
+    - **Testable prediction**: a description of what **will** happen, that you could then go and observe
+    - **Law**: a statement of what **always happens** in a situation (does **not** include **why**!)
+    - **Written notes:** {{% resource_link "fd36a812-6410-40e1-9411-e303b53fe80c" "observation definitions" %}}, {{% resource_link "51b7db16-3fa5-4c6d-93d5-ce3e2c4be1a3" "model definitions" %}}, {{% resource_link "ad1c2db1-131d-442d-9af8-c00d7d0a7792" "prediction definitions" %}}
+    - **Question:** what's easier, **proving** a model is incorrect or correct? **Can** we prove something correct?
 
-**Demonstrate in small groups:**
+**Teaching tips/tricks:**
 
-- In ds9, show how to use the contrast (right click or control click (Mac) and move up and down), bias (right click or control click (Mac) and move left and right), color tables ("Color" from toolbar) and changes in scale ("Scale" from toolbar) to alter how an image is displayed.
-- For each tool: Instructor demonstrates on a terrestrial image (Prudential tower image), then students repeat analysis.
-- Instructor then gives a challenge to have students make the image look like a new example, without being shown how to do it. Each new example should highlight an important feature of the object that is not immediately obvious when first opened. In other words, changing how an image is displayed allows us to see or highlight different features of the image. 
-    - Possible challenge images: [prudential1](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/image-gallery-2/MITHFH_chandra_inv2_prud1.jpg), [prudential2](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/image-gallery-2/MITHFH_chandra_inv2_prud2.jpg), [prudential3](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/image-gallery-2/MITHFH_chandra_inv2_prud3.jpg)
-    - ["Key" to image processing settings to create these images: prudential (PDF)](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/investigation-2-light-and-color-activity-2/MITHFH_prudential.pdf)
-- Continue this process with an astronomical image (Orion nebula), giving the students 3 different challenges to point out three different features. 
-    - Possible challenge images: [orion1](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/image-gallery-2/MITHFH_chandra_inv2_orion1.jpg), [orion2](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/image-gallery-2/MITHFH_chandra_inv2_orion2.jpg), [orion3](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/image-gallery-2/MITHFH_chandra_inv2_orion3.jpg)
-    - ["Key" to image processing settings to create these images: orion (PDF)](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-2-light-and-color/investigation-2-light-and-color-activity-2/MITHFH_orion.pdf). For each case of image processing settings, have the students check the highest and lowest brightness pixel. They will **always** be the same, because image processing does **not** change the count values, just how they are displayed.
-
-Wrap up discussion: How does adding color help us see brightness (flux) differences better? Give an example.
-
-**Teacher tips/tricks:**
-
-- Timing: This can take as little as 30 minutes.
-- Having multiple instructors show small groups how to use the tools is most effective, including giving them the "processing challenges" to reproduce.
-- To save time, we also tried showing two groups at once how to do a step, then let students try it out themselves, while instructors went around helping anyone who was really stuck.
+- Timing: takes about 90 minutes, including only three observations of the blocks.
+- Youth may not be used to peer review—instructor giving a simple example with an incorrect prediction from one of the example models might make it clearer.
+- Ask the students "Why did we do this activity?" to get them thinking about **what** they are learning and **how** they are learning it. They can write this in notebooks, or on the board for sharing, if time allows. This is used generally throughout the CAI.
 
 **Assessment ideas:**
 
-- Have students explicitly write out their response to the above wrap up question.
-- Students should predict what tools were used to make changes between two example displays of the same image. (See example images)
+- Write "what is the difference between an observation and a model?"
+- Which of the following is a model or observation (listing of several simple statements)
+
+{{< resource uuid="09082246-7d14-4e9a-b8ad-7e54fb4c8669" >}}
+
+## **Simple Telescope Model**
+
+**Electronic resource**: [Simple telescope model](http://www.telescope-optics.net/images/Newt2.PNG)
+
+**Physical resources:** bulb with pattern drawn on it, curved makeup mirrors, flat mirrors, cardboard with grid of "pixels" drawn on it.
+
+- Instructor introduces three basic parts of a telescope: target, mirror, detector. Challenge them to produce an image using these parts.
+- Images of students at work on this task: {{% resource_link "21919ec8-83d9-4eed-9cb6-62452e944d4b" "focus image 1" %}}, {{% resource_link "a81526b4-e6b1-462c-ba23-29a5f0cb8fd1" "focus image 2" %}}, {{% resource_link "7eea75b4-8401-43c2-a460-b683955f1c2a" "focus image 3" %}}, {{% resource_link "3300bcd3-609c-4a56-b3e7-cffcf2ad4e40" "focus image 4" %}} 
+- Ask students to trace with their finger the path of the light which makes the image.
+- Zoom into any electronic image to motivate the idea of pixels (picture elements), then show an image of a detector up close to show the actual silicon pixels where light is collected.
+
+**Teacher tips/tricks:**
+
+- Youth find it easier to trace the path of light directly from a source, but their descriptions may allow instructor to see misconceptions about light that could be dealt with in {{% resource_link "ab202ddb-ee90-4d9c-b053-38d8ff2b5ae8" "Investigation 2" %}}.
+- Having flat mirrors as well as curved can be confusing if they try to use both together. If so, encourage them to use only one mirror to make an image.
+
+**Assessment ideas:**
+
+- Draw the path that light takes to make the image.
+- Why would astronomers want small pixels instead of large pixels (as on the cardboard "grid").
+
+{{< resource uuid="50e6adf6-a7a5-4c8b-9810-41c2367414be" >}}
