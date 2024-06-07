@@ -1,13 +1,12 @@
 ---
 content_type: page
-description: 'Overview: Students develop a basic understanding of light as a flow
-  of particles from sources, including the relationship between flux, luminosity and
-  distance.'
+description: Students develop a basic understanding of light as a flow of particles
+  from sources, including the relationship between flux, luminosity and distance.
 draft: false
 title: 'Investigation 2: Light and Color'
 uid: ab202ddb-ee90-4d9c-b053-38d8ff2b5ae8
 ---
-Overview: Students develop a basic understanding of light as a flow of particles from sources, including the relationship between flux, luminosity and distance. They learn to work with images using basic image processing techniques, and use images to connect to and calculate with the ideas of flux and luminosity they've just developed. Students then introduce color as a refinement of their model of light. They extend this idea of color to "colors" our eyes cannot see (i.e. infrared light, X-ray light). They learn to process X-ray images from Chandra. Students finally use color in two ways, just as professional astronomers do: to indicate intensity ("false color") and to indicate energy ("true color").
+**Overview**: Students develop a basic understanding of light as a flow of particles from sources, including the relationship between flux, luminosity, and distance. They learn to work with images using basic image processing techniques, and use images to connect to and calculate with the ideas of flux and luminosity they've just developed. Students then introduce color as a refinement of their model of light. They extend this idea of color to "colors" our eyes cannot see (i.e. infrared light, X-ray light). They learn to process X-ray images from Chandra. Students finally use color in two ways, just as professional astronomers do: to indicate intensity ("false color") and to indicate energy ("true color").
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
@@ -20,7 +19,7 @@ Activity 1
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 2
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "bb1d0c90-031d-4fd8-b970-edaabac98829" "Introduction to image processing" %}} 
+{{% resource_link "bb1d0c90-031d-4fd8-b970-edaabac98829" "Introduction to image processing" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 3
 {{< tdclose >}}{{< tdopen >}}

@@ -1,11 +1,14 @@
 ---
 content_type: page
-description: 'Investigation 6: Galaxy Clusters'
+description: 'Students make observations of individual galaxy clusters in visible
+  and X-ray light to develop an understanding of their differences. Students explore
+  the Doppler effect and discuss the different uses of the particle and wave model
+  of light. '
 draft: false
 title: 'Investigation 6: Galaxy Clusters'
 uid: 4da71100-b02d-444e-b1a2-cba178524ceb
 ---
-Overview: Students make observations of individual galaxies in visible and X-ray light to develop an understanding of their differences. Students explore an applet relating to the Doppler effect, after discussing the different uses of the particle and wave model of light. Students then use this idea to develop Hubble's law which applies in a uniformly expanding universe: galaxies farther from us move away faster. This allows students to determine the distances to galaxies, which they use to undertake an analysis of galaxy clusters to determine their width and depth.
+**Overview**: Students make observations of individual galaxies in visible and X-ray light to develop an understanding of their differences. Students explore an applet relating to the Doppler effect, after discussing the different uses of the particle and wave model of light. Students then use this idea to develop Hubble's law which applies in a uniformly expanding universe: galaxies farther from us move away faster. This allows students to determine the distances to galaxies, which they use to undertake an analysis of galaxy clusters to determine their width and depth.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 **ACTIVITIES**

@@ -1,13 +1,13 @@
 ---
 content_type: page
-description: 'Investigation 4: Supernova Remnants
-
-  '
+description: 'Students get to investigate the properties of one supernova remnant
+  together as a group and then gather information about one of three other supernova
+  remnants. '
 draft: false
 title: 'Investigation 4: Supernova Remnants'
 uid: f1d842a8-a6ce-4607-907b-cdc43e61de22
 ---
-Overview: This investigation gives students further chance to practice many of the skills and observations they've already learned to make, but introduces the idea of discrete spectra that are formed by electron transitions in atoms of particular elements. Students get to investigate the properties of one supernova remnant together as a group, and then gather information about one of 3 other supernova remnants, finally sharing their results in a mini poster session which leads to the collaborative development of possible research questions/topics.
+**Overview**: This investigation gives students further chance to practice many of the skills and observations they've already learned to make, but introduces the idea of discrete spectra that are formed by electron transitions in atoms of particular elements. Students get to investigate the properties of one supernova remnant together as a group, and then gather information about one of three other supernova remnants, finally sharing their results in a mini poster session which leads to the collaborative development of possible research questions/topics.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 **ACTIVITIES**
@@ -16,7 +16,7 @@ Overview: This investigation gives students further chance to practice many of t
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Activity 1
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "db2d5b40-b2bd-4733-b5ca-7f057dba3aa3" "Motivating observations / questions about explosions" %}}
+{{% resource_link "db2d5b40-b2bd-4733-b5ca-7f057dba3aa3" "Motivating observations/questions about explosions" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 2
 {{< tdclose >}}{{< tdopen >}}

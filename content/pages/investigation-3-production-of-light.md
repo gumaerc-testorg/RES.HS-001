@@ -1,10 +1,15 @@
 ---
 content_type: page
-description: 'Investigation 3: Production of Light'
+description: Students are able to connect their understanding of color to understanding
+  a spectrum, as it is represented by scientists. They also are able to interpret
+  what a fitting routine does to fit spectral data to a model, and are able to judge
+  the quality of a fit.
 draft: false
 title: 'Investigation 3: Production of Light'
 uid: 6567e1bc-f03a-48d3-83a6-d3a8d10a9fe1
 ---
+**Overview**: Students are able to connect their understanding of color to understanding a spectrum, as it is represented by scientists. They also are able to interpret what a fitting routine does to fit spectral data to a model, and are able to judge the quality of a fit.
+
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 **ACTIVITIES**
 {{< thclose >}}{{< thopen >}}
