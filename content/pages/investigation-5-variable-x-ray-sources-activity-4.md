@@ -1,8 +1,7 @@
 ---
 content_type: page
-description: 'Investigation 5: Variable X-ray Sources - Activity 4
-
-  '
+description: Students learn about filtering, and get color estimates for low and high
+  states, which for 4U1822, do not have significant differences.
 draft: false
 title: 'Investigation 5: Variable X-ray Sources - Activity 4'
 uid: 2a5ae59d-331a-47f9-9c32-a30aa3a8a48d
@@ -13,13 +12,13 @@ Note: During Summer 2008, this activity was dropped in favor of spending more ti
 
 **Physical resources:** None
 
-**Electronic resources:** Restaurant analogy histogram data, energy histogram graph paper [restaurant energy histogram](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-5-variable-x-ray-sources/image-gallery-5/MITHFH_chandra_inv5_ResTim.jpg)
+**Electronic resources:** Restaurant analogy histogram data, energy histogram graph paper {{% resource_link "d766aac0-24d7-4ce7-bfac-66cb87806438" "restaurant energy histogram" %}}
 
 **Overview:** Students learn about filtering, and get color estimates for low and high states, which for 4U1822, do **not** have significant differences.
 
 **Extend restaurant analogy to filtering:**
 
-- Give students handout with observations of both calories consumed **and** time each person left the restaurant, paired. [Observation file (PDF)](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-5-variable-x-ray-sources/investigation-5-variable-x-ray-sources-activity-4/MITHFH_hstgrm_rsttmg_cl.pdf)
+- Give students handout with observations of both calories consumed **and** time each person left the restaurant, paired. {{% resource_link "3d0e2d80-6317-4c3a-bd2b-b1628374e5b8" "Observation file (PDF)" %}}
 - Have students produce a "breakfast" energy histogram (i.e. only including calories consumed by people leaving between 8:00 and 11:00) and a "dinner" energy histogram (i.e. only including calories consumed by people leaving between 17:00 and 24:00)
 - Draw an analogy with using the time filter on an image, and then extracting a spectrum, to see differences
 
@@ -28,10 +27,10 @@ Note: During Summer 2008, this activity was dropped in favor of spending more ti
 - Extract a light curve, and then choose the lowest 1/3 of one period of the light curve to call the "low flux state" of the object, and the highest 1/3 of one period of the light curve to call the "high flux state" of the object.
 - Use the "rebin image" Chandra Ed tool to filter in time and retain only those photons received during the "low flux state" in a resulting image. Process: filtering an image in time 
     - **Note**: only **one** time filtered region can be worked with at a time, as Chandra Ed will name the resulting time-filtered file the **same** thing.
-    - Use the "energy cut" Chandra Ed tool to cut filtered images into low (0.3 - 2 keV), medium (2-4 keV) and high (4-8 keV) energy images.
+    - Use the "energy cut" Chandra Ed tool to cut filtered images into low (0.3–2 keV), medium (2–4 keV) and high (4–8 keV) energy images.
     - For an annulus region, use the "Counts in regions" tool to record the number of counts in that region for the low, medium and high energy images.
     - Record these observations in a table showing counts in each energy range as well as percentage of total counts.
-- Repeat above steps for the "high flux state" and add to the comparison chart. [Simple color analysis file (PDF)](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-5-variable-x-ray-sources/investigation-5-variable-x-ray-sources-activity-4/MITHFH_clr_ana_4u1822.pdf).
+- Repeat above steps for the "high flux state" and add to the comparison chart. {{% resource_link "1d524dda-87e7-47eb-9fc5-1f816c608bb7" "Simple color analysis file (PDF)" %}}.
 - Discuss what the lack of color change might mean. (There must not be significant absorption by clouds, which we saw can change the shape of the spectrum. Thus, the X-ray emitting object must be large enough to be seen, even when behind the companion star, as we also saw from the dip of the light curve that didn't go to zero.)
 
 **Teacher tips/tricks:**
@@ -44,12 +43,12 @@ Note: During Summer 2008, this activity was dropped in favor of spending more ti
 
 - Describe what it would be like to be on a planet or spacecraft nearby to this object. How would it be different than being nearby our own sun?
 
-## **Alternative / Additional Activity: Analysis of 2 Additional Variable Sources**
+## **Alternative/Additional Activity: Analysis of Two Additional Variable Sources**
 
 Although during Summer 2008, there was not enough time, it is possible for students to repeat the complete analysis (light curves, linear sizes from light curves, and color information from high and low states) for two additional variable targets, given below. In this case, during activity 5, students could then present arguments about what they think **each** of the 3 analyzed objects might be. Alternatively, these two objects could serve as an additional independent investigation project.
 
-Cyg X-1: Probable stellar mass black hole with orbiting dense clouds as part of accretion from massive companion. [Color analysis (PDF)](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-5-variable-x-ray-sources/investigation-5-variable-x-ray-sources-activity-4/MITHFH_cyg_x1_ana.pdf)
+Cyg X-1: Probable stellar mass black hole with orbiting dense clouds as part of accretion from massive companion. {{% resource_link "003cc52f-3453-47b0-b333-e2f67ddeca92" "Color analysis (PDF)" %}}
 
-Burster GS 1826: An X-ray binary system where accretion onto surface of neutron star from companion star causes dramatic periodic increases in flux lasting ~100 seconds as a result of thermonuclear explosion of built up accreted matter. [Color analysis (PDF)](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-5-variable-x-ray-sources/investigation-5-variable-x-ray-sources-activity-4/MITHFH_brstr_gs1826anls.pdf)
+Burster GS 1826: An X-ray binary system where accretion onto surface of neutron star from companion star causes dramatic periodic increases in flux lasting ~100 seconds as a result of thermonuclear explosion of built up accreted matter. {{% resource_link "7890f4a3-8892-4bb2-bcde-19419fb263d6" "Color analysis (PDF)" %}}
 
-[Summary of all three variable objects and their properties (PDF)](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-5-variable-x-ray-sources/investigation-5-variable-x-ray-sources-activity-4/MITHFH_va_so_sum_8_08.pdf)
+{{% resource_link "4c972ea7-1349-4117-9360-b2f18ccd7ca4" "Summary of all three variable objects and their properties (PDF)" %}}

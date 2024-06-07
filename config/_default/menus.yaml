@@ -1,5 +1,5 @@
 leftnav:
-- identifier: 3f141a11-1fae-414a-bc00-64bc94917242
+- identifier: 3223f973-77cb-4674-980a-e9a8c6415e10
   name: Syllabus
   pageRef: /pages/syllabus
   weight: 10
@@ -23,12 +23,13 @@ leftnav:
   name: 'Investigation 5: Variable X-ray Sources'
   pageRef: /pages/investigation-5-variable-x-ray-sources
   weight: 60
-- identifier: 33de0a59-aad7-4ebe-8098-5eee5b080284
+- identifier: 4da71100-b02d-444e-b1a2-cba178524ceb
   name: 'Investigation 6: Galaxy Clusters'
+  pageRef: /pages/investigation-6-galaxy-clusters
   weight: 70
 - identifier: cc8daef2-68d9-4c36-b5bb-c933c57f103f
   name: 'Activity 1 '
-  pageRef: /pages/investigation-1-size-and-distance-activity-12
+  pageRef: /pages/investigation-1-size-and-distance-activity-1
   parent: 624b9551-c722-460c-aa34-0360252e964a
   weight: 10
 - identifier: ecba92d9-b465-4db2-8e62-f3ae11248eeb
@@ -63,27 +64,27 @@ leftnav:
   weight: 10
 - identifier: bb1d0c90-031d-4fd8-b970-edaabac98829
   name: Activity 2
-  pageRef: /pages/investigation-1-size-and-distance-activity-1
+  pageRef: /pages/investigation-2-size-and-distance-activity-2
   parent: ab202ddb-ee90-4d9c-b053-38d8ff2b5ae8
   weight: 20
 - identifier: e3104162-f200-4b58-8321-c931c651eeb1
   name: Activity 3
-  pageRef: /pages/investigation-1-size-and-distance-activity-32
+  pageRef: /pages/investigation-2-size-and-distance-activity-3
   parent: ab202ddb-ee90-4d9c-b053-38d8ff2b5ae8
   weight: 30
 - identifier: 7b8b6ef7-48c3-4512-824a-79084e0691f7
   name: Activity 4
-  pageRef: /pages/investigation-1-size-and-distance-activity-42
+  pageRef: /pages/investigation-2-size-and-distance-activity-4
   parent: ab202ddb-ee90-4d9c-b053-38d8ff2b5ae8
   weight: 40
 - identifier: f924523a-bc75-4c6b-918b-99aa9c514a7e
   name: Activity 5
-  pageRef: /pages/investigation-1-size-and-distance-activity-52
+  pageRef: /pages/investigation-2-size-and-distance-activity-5
   parent: ab202ddb-ee90-4d9c-b053-38d8ff2b5ae8
   weight: 50
 - identifier: a4a99b13-49f6-43d2-9f29-fc2cd0123cba
   name: Activity 6
-  pageRef: /pages/investigation-1-size-and-distance-activity-62
+  pageRef: /pages/investigation-2-size-and-distance-activity-6
   parent: ab202ddb-ee90-4d9c-b053-38d8ff2b5ae8
   weight: 60
 - identifier: bfb29872-76eb-4468-bee6-6776fb8535db
@@ -177,25 +178,27 @@ leftnav:
   parent: 557068e9-aef8-4fea-96d3-2835e1046de1
   weight: 50
 - identifier: 50c1682a-8a82-4e13-ba44-0a1a415fd30e
-  name: 'Activity 1 '
+  name: Activity 1
   pageRef: /pages/investigation-6-galaxy-clusters-activity-1
-  parent: 33de0a59-aad7-4ebe-8098-5eee5b080284
+  parent: 4da71100-b02d-444e-b1a2-cba178524ceb
   weight: 10
 - identifier: 9c5d85af-fbcc-46a5-8685-bca2de9e6e88
   name: Activity 2
   pageRef: /pages/investigation-6-galaxy-clusters-activity-2
-  parent: 33de0a59-aad7-4ebe-8098-5eee5b080284
+  parent: 4da71100-b02d-444e-b1a2-cba178524ceb
   weight: 20
 - identifier: 92b42663-d1bf-4e7c-9acd-8b22577ddc4b
   name: Activity 3
   pageRef: /pages/investigation-6-galaxy-clusters-activity-3
-  parent: 33de0a59-aad7-4ebe-8098-5eee5b080284
+  parent: 4da71100-b02d-444e-b1a2-cba178524ceb
   weight: 30
-- identifier: 2221ed2d-c98d-43fb-95d4-a67b9689b854
+- identifier: 39b20dfd-1430-4d4c-a4a3-9d2568883c85
   name: Activity 4
-  parent: 33de0a59-aad7-4ebe-8098-5eee5b080284
+  pageRef: /pages/investigation-6-galaxy-clusters-activity-4
+  parent: 4da71100-b02d-444e-b1a2-cba178524ceb
   weight: 40
-- identifier: 911e2953-58e4-420c-b68e-0a94f468cd08
+- identifier: 526faffe-a07b-40c8-bf81-7928ef709b52
   name: Activity 5
-  parent: 33de0a59-aad7-4ebe-8098-5eee5b080284
+  pageRef: /pages/investigation-6-galaxy-clusters-activity-5
+  parent: 4da71100-b02d-444e-b1a2-cba178524ceb
   weight: 50

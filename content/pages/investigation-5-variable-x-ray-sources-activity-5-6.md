@@ -1,13 +1,12 @@
 ---
 content_type: page
-description: 'Investigation 5: Variable X-ray Sources - Activity 5 & 6
-
-  '
+description: 'Students develop written/oral arguments to rule out or support a particular
+  model to explain the observations of 4U1822 (and/or other variable sources). '
 draft: false
 title: 'Investigation 5: Variable X-ray Sources - Activity 5 & 6'
 uid: 678e0f28-d501-4c80-a915-74d10a7d7641
 ---
-## **Building Arguments and Presenting them to the Scientific Community**
+## **Building Arguments and Presenting Them to the Scientific Community**
 
 **Overview:** Students develop written/oral arguments to rule out or support a particular model to explain the observations of 4U1822 (and/or other variable sources). Students then debate as a class as to which model makes the best sense for the object and try to convince a majority of their peers of which model is most "reasonable."
 
@@ -30,30 +29,29 @@ uid: 678e0f28-d501-4c80-a915-74d10a7d7641
         - Single neutron star, changing distance
         - Single neutron star, changing size
         - A cloud of interstellar dust, moving in front of a single neutron star.
-    - X-ray binary systems with different parameters, both **with** active accretion and **without** active accretion (accretion disk radii are ~ 109 m, with a thickness of about 10% of that, or 108 m): 
-        - Low mass XRB: star with 0.5 M\_sun + neutron star
-        - Low mass XRB: star with 0.5 M\_sun + black hole
-        - High mass XRB: star with 30 M\_sun + neutron star
-        - High mass XRB: start with 30 M\_sun + black hole
+    - X-ray binary systems with different parameters, both **with** active accretion and **without** active accretion (accretion disk radii are ~ 10<sup>9</sup> m, with a thickness of about 10% of that, or 10<sup>8</sup> m): 
+        - Low mass XRB: star with 0.5 M<sub>sun</sub> + neutron star
+        - Low mass XRB: star with 0.5 M<sub>sun</sub> \+ black hole
+        - High mass XRB: star with 30 M<sub>sun</sub> + neutron star
+        - High mass XRB: start with 30 M<sub>sun</sub> + black hole
 - Students should compare each observation of the object in question with a **prediction** that you would expect from your particular **model** for the object. If the prediction is **not** consistent with the observation, then the model is **ruled out**. If every prediction **is** consistent with the observations, the model cannot be ruled out, but is not **necessarily true**, either!
-- An example of this process is given by the instructor for a pulsar model: [4u1822 observation summary](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-5-variable-x-ray-sources/image-gallery-5/MITHFH_chandra_inv5_obsumm.jpg)
+- An example of this process is given by the instructor for a pulsar model: {{% resource_link "8a8f78c7-951f-4b30-b9e7-3366206a3e65" "4u1822 observation summary" %}}
 - Some examples of ruling out models: 
     - Angular size constraint rules out galaxy clusters (they would be **huge** if that close!)
     - SNR are predicted to be constant luminosity, or to change over a timescale of years, but our observation is a variation over **hours**, so this model is ruled out.
     - Any XRB system with a black hole **without** accretion would not give off any X-rays, so the predicted X-ray light curve would be a flat line at zero, whereas we observe the light curve as having a positive value.
-    - A neutron star changing distance would have to increase and decrease its distance by a factor of 1.4 to explain the 50% drop in flux we observe. Given that this happens in only 20,000 seconds, the object would have to move faster than the speed of light, which is an impossible prediction, so this model is ruled out. Image of student model for this: (student argument 2)
-    - XRB systems with high mass stars (diameter ~100 to 1000 times the diameter of the sun = 1.4 x 1011 meters to 1.4 x 1012 meters) will predict a drop in the light curve to zero, compared to size of NS **with no** accretion disk (typical diameter ~ 2 x 104 meters), or even **with** accretion disk (typical diameter ~ 2 x 109 meters). This is inconsistent with observations—the light curve does **not** drop to zero—so the model is ruled out. (student argument 4)
-    - Images of several student models: (presenting models 1, presenting models 2, student argument 1, student argument 3)
+    - A neutron star changing distance would have to increase and decrease its distance by a factor of 1.4 to explain the 50% drop in flux we observe. Given that this happens in only 20,000 seconds, the object would have to move faster than the speed of light, which is an impossible prediction, so this model is ruled out.
+    - XRB systems with high mass stars (diameter ~100 to 1000 times the diameter of the sun = 1.4 x 10<sup>11</sup> meters to 1.4 x 10<sup>12</sup> meters) will predict a drop in the light curve to zero, compared to size of NS **with no** accretion disk (typical diameter ~ 2 x 10<sup>4</sup> meters), or even **with** accretion disk (typical diameter ~ 2 x 10<sup>9</sup> meters). This is inconsistent with observations—the light curve does **not** drop to zero—so the model is ruled out. 
 - Each student should be responsible for presenting a convincing oral argument that their chosen model is ruled out or can't be ruled out. Afterward, the students have a secret ballot to either agree or disagree with them. Majority rules in keeping a certain model for consideration.
 - Students should find that they cannot rule out the low mass XRB models with accretion, as the star size is smaller than accretion disk size. This leads them to ask how one can find whether the compact object is a neutron star or black hole. This is a great introduction to the 4U2129 independent investigation, which is designed to answer just that question for another low mass XRB system.
-- Students record additional or unanswered questions about XRB systems on the board, as possible starting points for the XRB independent investigation. (XRB questions)
+- Students record additional or unanswered questions about XRB systems on the board, as possible starting points for the XRB independent investigation. 
 
 **Teacher tips/tricks:**
 
 - Timing: 4 hours, including time for each of 10 students to present one complete argument. Time can be cut by having students choose only one model to support or refute, although they should have experience doing both.
 - Presenting arguments is the most important part of this activity, and some students may find it difficult to convince their peers in the scientific community of what could be a seemingly simple point, especially if it is not clear!
 - Encourage students to suggest other observations they might make that would help "break the tie" between competing models.
-- Although it added time to this activity, it may be useful to discuss how the investigation of the X-ray binary source is similar to the investigation of the colorful 3-D shapes from [investigation 1](https://old.ocw.mit.edu/high-school/physics/chandra-astrophysics-institute/investigation-1-size-and-distance), as a review of what we mean by observations, models and predictions.
+- Although it added time to this activity, it may be useful to discuss how the investigation of the X-ray binary source is similar to the investigation of the colorful 3-D shapes from {{% resource_link "624b9551-c722-460c-aa34-0360252e964a" "Investigation 1" %}}, as a review of what we mean by observations, models and predictions.
 
 **Assessment ideas:**
 
