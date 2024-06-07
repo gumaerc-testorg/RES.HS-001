@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+file_size: 11145
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

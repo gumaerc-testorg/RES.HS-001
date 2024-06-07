@@ -1,11 +1,14 @@
 ---
 content_type: page
-description: 'Investigation 1: Size and Distance'
+description: 'Students build their first predictive model (the relationship between
+  angular width, linear width, and distance) to understand how models and observations
+  relate. Students observe and measure angular width from images on digital cameras
+  and use skills and the idea of angular size to create their own "trick photographs." '
 draft: false
 title: 'Investigation 1: Size and Distance'
 uid: 624b9551-c722-460c-aa34-0360252e964a
 ---
-In this session: Students build their first predictive model (the relationship between angular width, linear width and distance) to understand how models and observations relate. Students observe and measure angular width from images on digital cameras, learn to use scientific notation, and use these skills to create their own "trick photographs" involving everyday objects. They apply the idea of angular size by exploring the minimum angular size resolved by their eyes and other telescopes.
+**Overview**: Students build their first predictive model (the relationship between angular width, linear width, and distance) to understand how models and observations relate. Students observe and measure angular width from images on digital cameras, learn to use scientific notation, and use these skills to create their own "trick photographs" involving everyday objects. They apply the idea of angular size by exploring the minimum angular size resolved by their eyes and other telescopes.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Activities 
@@ -14,11 +17,11 @@ Topics
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Activity 1
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "cc8daef2-68d9-4c36-b5bb-c933c57f103f" "Models in science / simple telescopes" %}}
+{{% resource_link "cc8daef2-68d9-4c36-b5bb-c933c57f103f" "Models in Science / Simple Telescopes" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 2
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "ecba92d9-b465-4db2-8e62-f3ae11248eeb" "Opening observations to generate questions about \"size of objects in images\" /m plotting observations about angular size" %}}
+{{% resource_link "ecba92d9-b465-4db2-8e62-f3ae11248eeb" "Opening observations to generate questions about \"size of objects in images\" / plotting observations about angular size" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Activity 3
 {{< tdclose >}}{{< tdopen >}}
