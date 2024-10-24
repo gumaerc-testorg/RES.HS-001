@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-hs-001-chandra-astrophysics-institute/moon_mo_main.fits
+file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/moon_mo_main.fits
 file_size: 653760
 file_type: application/octet-stream
 image_metadata:
