@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-hs-001-chandra-astrophysics-institute/doppler_ball-1.fits
+file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/doppler_ball-1.fits
 file_size: 792000
 file_type: application/octet-stream
 image_metadata:
