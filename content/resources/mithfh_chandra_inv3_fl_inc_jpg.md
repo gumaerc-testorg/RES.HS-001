@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-hs-001-chandra-astrophysics-institute/mithfh_chandra_inv3_fl_inc.jpg
+file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/mithfh_chandra_inv3_fl_inc.jpg
 file_size: 59706
 file_type: image/jpeg
 image_metadata:

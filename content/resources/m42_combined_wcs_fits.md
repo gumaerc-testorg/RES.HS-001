@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-hs-001-chandra-astrophysics-institute/m42_combined_wcs.fits
+file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/m42_combined_wcs.fits
 file_size: 2761920
 file_type: application/octet-stream
 image_metadata:
