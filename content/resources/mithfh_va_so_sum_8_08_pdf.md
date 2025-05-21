@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/mithfh_va_so_sum_8_08.pdf
+file: courses/reshs-001-chandra-astrophysics-institute/mithfh_va_so_sum_8_08.pdf
 file_size: 61191
 file_type: application/pdf
 image_metadata:
