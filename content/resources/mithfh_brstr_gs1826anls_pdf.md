@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/mithfh_brstr_gs1826anls.pdf
+file: courses/reshs-001-chandra-astrophysics-institute/mithfh_brstr_gs1826anls.pdf
 file_size: 831075
 file_type: application/pdf
 image_metadata:

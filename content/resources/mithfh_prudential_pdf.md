@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/mithfh_prudential.pdf
+file: courses/reshs-001-chandra-astrophysics-institute/mithfh_prudential.pdf
 file_size: 276543
 file_type: application/pdf
 image_metadata:

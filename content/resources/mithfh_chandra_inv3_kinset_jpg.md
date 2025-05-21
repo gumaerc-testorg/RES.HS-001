@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/mithfh_chandra_inv3_kinset.jpg
+file: courses/reshs-001-chandra-astrophysics-institute/mithfh_chandra_inv3_kinset.jpg
 file_size: 65380
 file_type: image/jpeg
 image_metadata:
