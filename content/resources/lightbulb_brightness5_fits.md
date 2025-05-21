@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/lightbulb_brightness5.fits
+file: courses/reshs-001-chandra-astrophysics-institute/lightbulb_brightness5.fits
 file_size: 792000
 file_type: application/octet-stream
 image_metadata:
