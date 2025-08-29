@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/ZGR0pt8ulUQ_transcript.pdf
 file_size: 21063
 file_type: application/pdf
 learning_resource_types: []

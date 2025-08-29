@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/reshs-001-chandra-astrophysics-institute/mithfh_hstgrm_rsttmg_cl.pdf
+file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/mithfh_hstgrm_rsttmg_cl.pdf
 file_size: 23075
 file_type: application/pdf
 image_metadata:
