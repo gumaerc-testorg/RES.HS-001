@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/reshs-001-chandra-astrophysics-institute/mithfh_m81_pwrlw_rslts.pdf
+file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/mithfh_m81_pwrlw_rslts.pdf
 file_size: 260030
 file_type: application/pdf
 image_metadata:
