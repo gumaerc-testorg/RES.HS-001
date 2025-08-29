@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/reshs-001-chandra-astrophysics-institute/mithfh_clr_ana_4u1822.pdf
+file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/mithfh_clr_ana_4u1822.pdf
 file_size: 149787
 file_type: application/pdf
 image_metadata:

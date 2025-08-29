@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/reshs-001-chandra-astrophysics-institute/mithfh_inv2_fnl_prj_dvd.pdf
+file: /ol-ocw-studio-app/courses/res-hs-001-chandra-astrophysics-institute/mithfh_inv2_fnl_prj_dvd.pdf
 file_size: 40060
 file_type: application/pdf
 image_metadata:
