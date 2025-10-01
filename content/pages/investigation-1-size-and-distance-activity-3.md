@@ -11,7 +11,7 @@ uid: 3099d511-c56a-4816-833f-b79da2991f1d
 
 **Overview:** Students learn to use the image processing software "SAO DS9," learn to measure angles in radians, unit conversions and scientific notation, and get a chance to practice these skills with digital images of objects in the room.
 
-**Electronic resources:** a common image to measure angular width of different objects in FITS format ({{% resource_link "cee542e1-9461-4407-af4b-3a773e622318" "angular\_sizes.fits" %}}). Flexible Image Transport System (FITS) is a digital file format used to store, transmit, and manipulate scientific and other images. FITS is the most commonly used digital file format in astronomy. [DS9](http://hea-www.harvard.edu/RD/ds9/) is an application that supports these files and is [available for free](http://hea-www.harvard.edu/RD/ds9/).
+**Electronic resources:** a common image to measure angular width of different objects in FITS format ({{% resource_link "cee542e1-9461-4407-af4b-3a773e622318" "angular\_sizes.fits" %}}). Flexible Image Transport System (FITS) is a digital file format used to store, transmit, and manipulate scientific and other images. FITS is the most commonly used digital file format in astronomy. {{% resource_link "f717f1df-1a61-4c5d-9628-4dbf553ed68d" "DS9" %}} is an application that supports these files and is {{% resource_link "f717f1df-1a61-4c5d-9628-4dbf553ed68d" "available for free" %}}.
 
 **Physical resources:** two sets of cards to measure area, with an integer multiple conversion between them; two sets of straws to measure distance, with an integer conversion between them.
 
@@ -22,7 +22,7 @@ The instructor sets up a situation similar to the students' challenge from the p
 - Put strings from camera to edges of objects, each in turn, removing the closer objects, but keeping the strings there. Ask students to notice what is the same in each case: Angle made by the strings. Image showing this relationship: {{% resource_link "2f13f50f-4faf-4a3b-8822-47053d9d23b3" "same angular size" %}}
 - This motivates the definition of **angular** size: the angle made by the lines connecting each side of the object to the detector. Pixels actually measure **angle**. More pixels → wider angle. (Could show zoomed in test image to see and count pixels.)
 - Challenge: Have each group predict where a **new** size object should be on the demo setup so it is the same angular width in the image, **but** without looking through the camera.
-- Radian is a measure of angle that is more general than pixels in a particular camera. Show a circle with angles measured in both radians and degrees. 1 radian ~ 60 degrees ([The Radian](http://zonalandeducation.com/mmts/trigonometryRealms/radianDemo1/RadianDemo1.html)).
+- Radian is a measure of angle that is more general than pixels in a particular camera. Show a circle with angles measured in both radians and degrees. 1 radian ~ 60 degrees ({{% resource_link "f600076b-a318-4077-835d-a1282ba0917f" "The Radian" %}}).
 - Motivate factor-label conversion: We must learn to convert between different units that both measure the same quantity, angular size.
 
 {{< resource uuid="944944fb-ade5-4b6b-8c2d-eb5506143e92" >}}
@@ -44,7 +44,7 @@ The instructor sets up a situation similar to the students' challenge from the p
 - Converting large and small numbers back and forth from regular to scientific notation. Notes from this process: {{% resource_link "dd928a75-80ea-4848-bcf8-9b9a7506adef" "scientific notation" %}}
 - Multiplying and dividing numbers using scientific notation
 - Using factor label conversions with scientific notation (start with just kilometers to meters, then more complex). Notes: {{% resource_link "d23bd43c-3496-4038-963d-73c3c32999f5" "factor label example" %}}
-- [Powers of Ten](http://www.youtube.com/watch?v=0fKBhvDjuy0) video can be instructive here, to start giving students an idea of scales in the universe and what we mean by negative exponents.
+- {{% resource_link "be98b1c4-2592-4fdf-ad92-c38ac610e99a" "Powers of Ten" %}} video can be instructive here, to start giving students an idea of scales in the universe and what we mean by negative exponents.
 - Instructor demonstrates converting angular width of rectangular object from common image opened by all students from pixels to radians.
 
 {{< resource uuid="72dc2349-37d8-480a-a418-938d9d4fece9" >}}

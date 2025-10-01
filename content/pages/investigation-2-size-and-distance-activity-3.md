@@ -14,7 +14,7 @@ uid: e3104162-f200-4b58-8321-c931c651eeb1
 
 **Electronic resources:** lightbulb comparison image ({{% resource_link "cc016c99-d094-4e22-a4b2-c666cf7cb7a4" "lightbulb\_brightness5.fits" %}}), Orion nebula 30-second exposure ({{% resource_link "05d8ea0c-527e-454f-b3f7-a449395298e3" "Orion\_30s.fits" %}}), Orion nebula 45-second exposure ({{% resource_link "507594c5-e8a6-434d-b107-661cb2e4f91f" "Orion45shifted.fits" %}})
 
-Flexible Image Transport System (FITS) is a digital file format used to store, transmit, and manipulate scientific and other images. FITS is the most commonly used digital file format in astronomy. [DS9](http://hea-www.harvard.edu/RD/ds9/) is an application that supports these files and is [available for free](http://hea-www.harvard.edu/RD/ds9/).
+Flexible Image Transport System (FITS) is a digital file format used to store, transmit, and manipulate scientific and other images. FITS is the most commonly used digital file format in astronomy. {{% resource_link "f717f1df-1a61-4c5d-9628-4dbf553ed68d" "DS9" %}} is an application that supports these files and is {{% resource_link "f717f1df-1a61-4c5d-9628-4dbf553ed68d" "available for free" %}}.
 
 **Instructor presents the goal:** We want to turn a measurement of an image into a measurement of the total amount of light emitted by a source. What has an effect on the number of counts we collect from an object? Notes: {{% resource_link "eb124e45-5255-4023-9bfe-a37d26bae5a4" "luminosity intro" %}}
 

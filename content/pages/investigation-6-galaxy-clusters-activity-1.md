@@ -22,12 +22,12 @@ uid: 50c1682a-8a82-4e13-ba44-0a1a415fd30e
 
 **Comparing and contrasting properties of galaxies:**
 
-- Challenge: Students complete tutorial and classify galaxies using "citizen science" Web site Galaxy Zoo ([Galaxy Zoo](http://www.galaxyzoo.org/), click "How to Take Part" to enter the tutorial).
+- Challenge: Students complete tutorial and classify galaxies using "citizen science" Web site Galaxy Zoo ({{% resource_link "84cb5ae7-6396-4394-91bd-520dd38a62d3" "Galaxy Zoo" %}}, click "How to Take Part" to enter the tutorial).
 - Focus question: Describe differences between elliptical and spiral galaxies in visible light, using the words "flux," "color," "angular width," "angular separation."
 - Challenge: Make true color X-ray and false color visible and X-ray light images of an elliptical and spiral galaxy (half the class each).
-- Spiral galaxy: M74 (obsid 2057), distance ~ 32 x 10<sup>6</sup> light years ([X-rays Signal Presence of Elusive Intermediate-Mass Black Hole](http://chandra.harvard.edu/press/05_releases/press_032205.html)).
-- Alternate spiral: M81 (obsid 5943, examined as AGN example in {{% resource_link "ab202ddb-ee90-4d9c-b053-38d8ff2b5ae8" "Investigation 2" %}}), distance ~ 11 x 10<sup>6</sup> light years ([Black Holes Have Simple Feeding Habits](http://chandra.harvard.edu/press/08_releases/press_061808.html)).
-- Elliptical galaxy: NGC 0507 (obsid 317), distance ~ 234 x 10<sup>6</sup> light years ([NASA's Chandra Finds Black Holes Stirring Up Galaxies](http://chandra.harvard.edu/press/06_releases/press_011006.html)).
+- Spiral galaxy: M74 (obsid 2057), distance ~ 32 x 10<sup>6</sup> light years ({{% resource_link "430d16ed-c9d4-4aa4-bd7c-13c4774ac604" "X-rays Signal Presence of Elusive Intermediate-Mass Black Hole" %}}).
+- Alternate spiral: M81 (obsid 5943, examined as AGN example in {{% resource_link "ab202ddb-ee90-4d9c-b053-38d8ff2b5ae8" "Investigation 2" %}}), distance ~ 11 x 10<sup>6</sup> light years ({{% resource_link "66cdce11-eefd-47d0-b845-5449e7803305" "Black Holes Have Simple Feeding Habits" %}}).
+- Elliptical galaxy: NGC 0507 (obsid 317), distance ~ 234 x 10<sup>6</sup> light years ({{% resource_link "3aab6c0b-f986-4d77-ad35-31c280b5bd6c" "NASA's Chandra Finds Black Holes Stirring Up Galaxies" %}}).
 - Students should make complete descriptions of the differences between their galaxy, as seen in X-ray and visible light, using the same words as above.
 - Students should switch notebooks with a partner who examined the other kind of galaxy, and then discuss the important differences, to be shared on the whiteboard with the entire class.
 

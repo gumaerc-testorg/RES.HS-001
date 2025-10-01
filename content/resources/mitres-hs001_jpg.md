@@ -7,8 +7,8 @@ file_size: 78254
 file_type: image/jpeg
 image_metadata:
   caption: This image gives the first clear view of the faint boundary of the Crab
-    Nebula's X-ray-emitting pulsar wind nebula. (Image courtesy of [NASA/CXC/SAO/F.
-    Seward et al.](http://chandra.harvard.edu/photo/2008/crab/))
+    Nebula's X-ray-emitting pulsar wind nebula. (Image courtesy of {{% resource_link
+    "ac732157-d36e-4be3-982e-7f8a23154f4f" "NASA/CXC/SAO/F. Seward et al." %}})
   credit: ''
   image-alt: ''
 learning_resource_types:

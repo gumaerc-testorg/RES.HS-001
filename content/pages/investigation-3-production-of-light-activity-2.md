@@ -13,7 +13,7 @@ uid: 470c67a1-740d-4aba-9659-0e037cf9b1d6
 
 **Physical resources:** Overhead projector, diffraction grating, blue (or other color) filter 
 
-**Electronic resources:** [Project LITE Spectrum Explorer](https://www.bu.edu/lite/spex/build_0041/ug/usersguide.htm)
+**Electronic resources:** {{% resource_link "32c3c6b2-ed03-4174-b79c-11ae7327fa7d" "Project LITE Spectrum Explorer" %}}
 
 **Representing spectra as histograms:**
 
@@ -40,7 +40,7 @@ uid: 470c67a1-740d-4aba-9659-0e037cf9b1d6
 - Draw analogy between events file (listing of energy for each photon collected by Chandra) and restaurant file (listing of calories (energy) consumed by each person at the restaurant).
 - Instructor demonstrates extracting spectrum for RBS1223 (obsid 731), an isolated neutron star. 
     - Load X-ray image, load corresponding visible light image: In DS9, click "Analysis…Image Servers…SAO-DSS" and click retrieve. This allows you access to the Digital Sky Survey. 
-        - 'The "SAO-DSS Server" window allows you to retrieve an optical image of the field of your observation and load it into a new frame. The default retrieval image size and (RA, Dec) is equal to the size and center of the field currently displayed. You may also want to use the menus in the dialog box to select a different server for quicker access from your location.' (from "[Using SAOimage DS9](http://cxc.harvard.edu/ciao/threads/ds9/#img5).")
+        - 'The "SAO-DSS Server" window allows you to retrieve an optical image of the field of your observation and load it into a new frame. The default retrieval image size and (RA, Dec) is equal to the size and center of the field currently displayed. You may also want to use the menus in the dialog box to select a different server for quicker access from your location.' (from "{{% resource_link "1067c259-17b1-43b4-97ae-9c02520cbbd3" "Using SAOimage DS9" %}}.")
     - Use "Histogram plot" tool to specify energy range 300:8000:50, and check "use bin width instead of number of bins" (**Process: Use histogram plot tool to extract a spectrum**)
     - Change plot to look like a histogram, using "step" linestyle: With "plot tool" window highlighted, click "View…Step" to add step linestyle, then click "View…Linear" to hide linear linestyle. ("Step" linestyle makes it easier to interpret the graph as a histogram.)
     - Arrange the windows and take a screen shot of the analysis, shown here: ({{% resource_link "a8c1da84-8fec-40fa-a7ef-274e48443602" "rbs1223 analysis screen shot" %}})

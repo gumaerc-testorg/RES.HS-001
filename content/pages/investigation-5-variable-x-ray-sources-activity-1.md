@@ -17,8 +17,8 @@ uid: ccc32659-fbc9-4266-b85b-683b348707b6
 
 **Opening data to motivate question-asking: examples of light sources with variable flux:**
 
-- [Blinking car headlights](http://www.youtube.com/watch?feature=player_embedded&v=P5N4dYgfe00): (From 0:00 to 0:05)
-- Movie of variable sources in globular cluster [M3: Inconstant Star Cluster](http://antwrp.gsfc.nasa.gov/apod/ap070415.html)
+- {{% resource_link "b0a2a25f-0626-4508-9671-a3bf08b7ffd3" "Blinking car headlights" %}}: (From 0:00 to 0:05)
+- Movie of variable sources in globular cluster {{% resource_link "ce9cb597-cfbe-42d4-9858-e197b22a123e" "M3: Inconstant Star Cluster" %}}
 - Students record observations about the objects, and similarities and differences between the objects.
 - **Extend restaurant analogy to include timing information:**
 - Describe the relationship between actual spectra and light curves from Chandra and their corresponding elements in the restaurant analogy. Notes from this discussion: ({{% resource_link "f6fbf805-0f00-4d97-888b-0f2ba093f4d4" "restaurant analogy comparison" %}}).

@@ -19,7 +19,7 @@ uid: 92b42663-d1bf-4e7c-9acd-8b22577ddc4b
 
 - Motivating question: How can we use the idea of redshift to figure out the velocity of objects? Students brainstorm ideas with group.
 - How do we **know** what was emitted? Introduce spectral lines as the photon we **know** must have been emitted with a certain energy, in our case, we'll look at line emission from hydrogen atoms.
-- Virtual spectroscope activity: ([MiniSpectroscopy](http://mo-www.harvard.edu/Java/MiniSpectroscopy.html)) 
+- Virtual spectroscope activity: ({{% resource_link "e5481df8-426a-43eb-ad99-ca4853f1243b" "MiniSpectroscopy" %}}) 
     - Examine hydrogen spectrum at rest, predict how "example galaxy" is moving, relative to Earth. (Peak is at a longer wavelength, so it is moving away from us.)
     - Give students **only** the spectra of galaxies A through D 
         - What **direction** are they moving? (away from Earth, because peak of emission is at a **longer** wavelength than it is when hydrogen is at rest)
@@ -29,7 +29,7 @@ uid: 92b42663-d1bf-4e7c-9acd-8b22577ddc4b
         - Given that most galaxies are about the same linear diameter, put them in order by their distance from Earth, closest to furthest.
     - Students should **describe** the pattern in these observations, and put their description on the whiteboard. (The order is the **same**, further galaxies move away faster.)
 - Instructor introduces Hubble's **law** as a restatement of this observation: Galaxies that are farther away move away from us faster. 
-    - Information about Hubble's Law ([Edwin Hubble and the Expanding Universe](https://www.pnas.org/content/112/11/3173#:~:text=In%20his%20short%20paper%2C%20Hubble,recede%20faster%20than%20nearby%20galaxies.)), including graphs of original observation.
+    - Information about Hubble's Law ({{% resource_link "01fb351f-a990-448e-be6f-ceddbe2541e6" "Edwin Hubble and the Expanding Universe" %}}), including graphs of original observation.
     - Recall that a **law** states an **observation** that always seems to hold true. It says **what** happens, not **why** it happens…for that we need a model. {{% resource_link "69d99b11-ea77-4071-9027-204751283b2f" "Hubble's law 1" %}}, {{% resource_link "213876ba-6541-430e-8dc8-66471f275f9c" "Hubble's law 2" %}})
 
 Model of expanding universe, to explain Hubble's law observations above:
