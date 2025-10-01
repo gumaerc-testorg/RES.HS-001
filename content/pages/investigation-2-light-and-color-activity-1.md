@@ -12,7 +12,7 @@ uid: 6a290ccd-992b-432e-acee-d00c15759f05
 
 **Physical resources:** Bright and dim light bulbs, 2 mini-maglights, red ball, red lightbulb, cardboard light blockers, screen/blank wall, radiometer (2?), 2 beakers of water, thermometer, tub of water (with milk), laser pointers, mirrors, solar cell, graph paper "detectors."
 
-**Electronic resources:** Image of [NGC 7789](http://apod.nasa.gov/apod/ap990709.html)
+**Electronic resources:** Image of {{% resource_link "1eb5efed-aab5-47ef-a807-c36a0f855c4d" "NGC 7789" %}}
 
 Students free write in their wiki: What is light? What do you know about light?
 

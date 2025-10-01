@@ -23,14 +23,14 @@ uid: ea8eced3-10f2-44c2-ae16-32c206ff5f68
 - Explain that the observation was taken with a grating in front of the detector. Show diagrams of Chandra telescope showing placement of grating and detector. 
     - Diagram of grating placement
     - Image of grating
-    - [Interactive Chandra diagram showing relation of different parts](http://chandra.harvard.edu/about/interactiveCraft.html#)
+    - {{% resource_link "a0b1502c-3c26-40f7-8143-029d94e26de1" "Interactive Chandra diagram showing relation of different parts" %}}
 - Review action of a grating: Students observe an incandescent source through a hand-held grating and describe how the pattern they see is similar to the Chandra observation. Give students two gratings to hold at an angle to each other to reproduce exactly what is seen in the three color image. ({{% resource_link "5056b906-cbbb-43af-81c2-41561d4e1c46" "cross dispersion" %}})
 
 **Create a light curve:**
 
 - Select appropriate region: annulus avoiding dark area in center of observation (pixels that have been overexposed, but are read out by Chandra as low counts), but with an outer radius of about 50 pixels (25 arcseconds) 
     - To use an annulus: "Region…Shape….Annulus", then click and drag to create an annulus on the image. Double click, and set the inner and outer radius, with "Annuli" = 1. Alternatively, drag the edges of the annulus using the mouse.
-- Students use "Quick light curve" tool to extract a light curve: Process: extracting a light curve. ([Learning to use the DS9 imaging system](https://cxc.harvard.edu/ciao/threads/ds9/)) 
+- Students use "Quick light curve" tool to extract a light curve: Process: extracting a light curve. ({{% resource_link "e230a393-b799-45e1-9825-7918c48e7e10" "Learning to use the DS9 imaging system" %}}) 
     - Assign different bin sizes to different groups. Bin width = 10 seconds, 100 seconds, 500 seconds, 1000 seconds and 5000 seconds.
     - Compare results among groups. At what bin size is the clearest pattern shown?
 - Why are these different? Why would error bars be different? as a motivation for noise activity…

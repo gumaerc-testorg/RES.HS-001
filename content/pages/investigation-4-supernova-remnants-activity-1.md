@@ -15,8 +15,8 @@ uid: db2d5b40-b2bd-4733-b5ca-7f057dba3aa3
 **Electronic resources: cannon video, X-ray image of Cas A, Cas A radio movie, images of various SNRs**
 
 - Students observe images or movies of "exploding" things here on Earth and in space:
-    - X-ray light image of [Cas A](http://chandra.harvard.edu/photo/2006/casa/)
-    - [Slow motion explosion of a cannon](http://www.youtube.com/watch?feature=player_embedded&v=JEpNlv80qx4)
+    - X-ray light image of {{% resource_link "a5d2ac17-3100-402d-b5a1-6b8896147602" "Cas A" %}}
+    - {{% resource_link "29ef70e1-9551-4a96-8e0e-f81b7677ff53" "Slow motion explosion of a cannon" %}}
 - Students record observations about each, and share important similarities, differences, and questions raised.
 - All students read supernova "expert group" wiki to gain some familiarity with SNR.
 - {{% resource_link "c7c9e066-666d-4623-a59d-580df3204949" "Show grid of 3-color X-ray images of many different supernova remnants, snrs (PDF)." %}}

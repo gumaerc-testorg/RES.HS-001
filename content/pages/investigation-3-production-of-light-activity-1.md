@@ -30,7 +30,7 @@ uid: 0722da69-f006-4c37-badb-f8c02e327d6d
 
 **Atomic structure lesson:**
 
-- As a demonstration, using "[Atoms in Motion](http://www.webassign.net/pas/)," have students investigate the motion of particles in a gas, and how that is affected by changing the temperature.
+- As a demonstration, using "{{% resource_link "9c676a88-964a-474a-ba63-1a1ae37e215a" "Atoms in Motion" %}}," have students investigate the motion of particles in a gas, and how that is affected by changing the temperature.
     - Use default simulation file ("air" simulation), but turn off the velocity histogram.
     - Prompt: Watch one atom, and describe in a sentence what happens to it.
     - Then increase the temperature, watch one atom and describe in a sentence what happens to it.

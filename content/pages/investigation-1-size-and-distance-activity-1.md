@@ -47,7 +47,7 @@ uid: cc8daef2-68d9-4c36-b5bb-c933c57f103f
 
 ## **Simple Telescope Model**
 
-**Electronic resource**: [Simple telescope model](http://www.telescope-optics.net/images/Newt2.PNG)
+**Electronic resource**: {{% resource_link "c673a348-8b9d-4570-b000-3961a2bc8503" "Simple telescope model" %}}
 
 **Physical resources:** bulb with pattern drawn on it, curved makeup mirrors, flat mirrors, cardboard with grid of "pixels" drawn on it.
 

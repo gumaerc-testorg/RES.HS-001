@@ -12,7 +12,7 @@ uid: c8a0fddc-c8fc-4dd5-8694-605dd4e9c0d4
 
 **Physical resources:** Candy (assorted colors), histogram paper (link below), tub of water, milk, flashlight.
 
-**Electronic resource:** [Images of Sunset](http://www.atoptics.co.uk/atoptics/mmirsun.htm)
+**Electronic resource:** {{% resource_link "9ec6610e-2700-4b2c-b652-806166b216e6" "Images of Sunset" %}}
 
 **"How is the light we record with our detector different from the light that was emitted by the source?"**
 

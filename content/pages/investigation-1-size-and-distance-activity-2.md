@@ -23,12 +23,12 @@ Each group of youth is assigned one "trick photo" or video. They develop 2 expla
 
 Trick photography:
 
-- ["Giant" foot over a person](http://www.lib.unc.edu/blogs/morton/index.php/2007/11/amazing-trick-photography/) 
-- [Kobe Bryant jumps over a speeding car](http://www.youtube.com/watch?feature=player_embedded&v=BIWeEFV59d4) 
+- {{% resource_link "bd8562ac-e4ed-4125-a427-f5c716183b68" "\"Giant\" foot over a person" %}} 
+- {{% resource_link "0e8f6d35-81a7-4fb9-81f0-dcb655711e12" "Kobe Bryant jumps over a speeding car" %}} 
 
 Notes: {{% resource_link "0ac84e59-c632-4d50-abe8-9914a70a32df" "trick photo explanations" %}}
 
-Astronomy image (for discussion below): [Different angular sizes of Mars](http://www.astronet.ru/db/msg/1228751/eng/) 
+Astronomy image (for discussion below): {{% resource_link "c200ac2d-128c-42c4-a2c4-c96d62a9977f" "Different angular sizes of Mars" %}} 
 
 **Instructor discusses:**
 
@@ -79,7 +79,7 @@ Draw analogy between telescope and digital camera: both collect light and create
 - Alternative: Balls can be used instead of blocks, instead drawing a circular "target" on the camera screen, but linear **width** is an easier way to connect to angular width in the next activity, where strings actually demonstrate the angle which is the size of the object in the image.
 - Describing the pattern of data in words is especially important, as it sets the stage for the algebraic relationship developed in the next activity.
 - Use the students' words for "size in the image," holding back on introducing "angular size" until the next activity.
-- If desired, instructor can take JPEG images of objects (or have students do so), and convert JPEG to FITS, using this online image converter utility: [Image Converter](http://www.online-utility.org/image_converter.jsp?outputType=FITS).
+- If desired, instructor can take JPEG images of objects (or have students do so), and convert JPEG to FITS, using this online image converter utility: {{% resource_link "1cf11635-9356-428b-a897-fc7aca82a762" "Image Converter" %}}.
 
 **Assessment:** None
 

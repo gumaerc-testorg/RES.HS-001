@@ -17,7 +17,7 @@ uid: f924523a-bc75-4c6b-918b-99aa9c514a7e
 **Introduction to colors we cannot see (photons with energies that our eyes don't detect):**
 
 - Instructor motivates the existence of other photons of higher energy, which human detectors (eyes) are not sensitive to, by recording light flashes from an infrared remote control with a digital camera or video camera. Example image: ({{% resource_link "d5420202-9abb-4bc6-a4fd-4c21d2d1a028" "IR-remote" %}})
-- There are other filters or detectors that allow us to "see" colors we can't with our eyes. Students read about these other kinds of "invisible light" and [telescopes/detectors which can detect these photons](http://www.astronomy.com/asy/default.aspx?c=a&id=1078), ({{% resource_link "7c6eb3aa-d24d-49f7-85ca-eb60530873f7" "invisible light telescopes" %}})
+- There are other filters or detectors that allow us to "see" colors we can't with our eyes. Students read about these other kinds of "invisible light" and {{% resource_link "9227cd35-3c4f-42c9-826b-2dd3597e1b1a" "telescopes/detectors which can detect these photons" %}}, ({{% resource_link "7c6eb3aa-d24d-49f7-85ca-eb60530873f7" "invisible light telescopes" %}})
     - Students read about the capability of Chandra. Elvis, Martin. "NASA's Chandra X-ray Observatory: A Revolution through Resolution." *Sky and Telescope*, August 1999.
     - {{% resource_link "29b14d16-ec3a-458e-8e29-c9a0a4dea65b" "Instructor introduces poster" %}} showing the ranges of energy of different kinds of light and the different telescopes that can detect these ranges of photon energy.
 

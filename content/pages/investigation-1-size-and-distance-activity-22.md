@@ -23,13 +23,13 @@ Each group of youth is assigned one "trick photo" or video. They develop two exp
 
 **Trick photography:**
 
-["Giant" foot over a person](http://www.lib.unc.edu/blogs/morton/index.php/2007/11/amazing-trick-photography/)        
-[Kobe Bryant jumps over a speeding car.](https://www.youtube.com/watch?v=BIWeEFV59d4)
+{{% resource_link "bd8562ac-e4ed-4125-a427-f5c716183b68" "\"Giant\" foot over a person" %}}        
+{{% resource_link "77ae2430-ebd0-4d4e-9cb7-7a9b73189725" "Kobe Bryant jumps over a speeding car." %}}
 
 **Astronomy images (for discussion below)**
 
-[Different angular sizes of Mars](http://www.astronet.ru/db/msg/1228751/eng/)        
-[Solar eclipse image](https://www.telegraph.co.uk/)
+{{% resource_link "c200ac2d-128c-42c4-a2c4-c96d62a9977f" "Different angular sizes of Mars" %}}        
+{{% resource_link "c1e3fe03-7cf7-4d32-b7ac-a83999f7583d" "Solar eclipse image" %}}
 
 **Instructor discusses:**
 
@@ -82,7 +82,7 @@ Timing: could be done in about 1 hour.       
 Alternative: Balls can be used instead of blocks, instead drawing a circular "target" on the camera screen, but linear width is an easier way to connect to angular width in the next activity, where strings actually demonstrate the angle which is the size of the object in the image.         
 Describing the pattern of data in words is especially important, as it sets the stage for the algebraic relationship developed in the next activity.         
 Use the students' words for "size in the image," holding back on introducing "angular size" until the next activity.         
-If desired, instructor can take JPEG images of objects (or have students do so), and convert JPEG to FITS, using this online image converter utility: [Image Converter.](https://www.online-utility.org/image_converter.jsp?outputType=FITS)
+If desired, instructor can take JPEG images of objects (or have students do so), and convert JPEG to FITS, using this online image converter utility: {{% resource_link "24010f88-e287-4c84-bbab-bb97111524d4" "Image Converter." %}}
 
 **Assessment:** None
 
