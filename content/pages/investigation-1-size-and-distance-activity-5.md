@@ -10,7 +10,7 @@ uid: 8c28079a-82b5-4be9-ad0d-f94962568638
 
 **Overview:** Students experience their spatial resolution limit by trying to read newspaper text from different distances. 
 
-**Electronic resources:** images of Crab Nebula from Einstein ([crab nebula Einstein](http://chandra.harvard.edu/photo/2008/crab/)), Chandra ({{% resource_link "4d8a02cc-a726-44fa-bce8-4b405efda3ed" "crab nebula Chandra" %}}), RR Lyrae FITS image, {{% resource_link "db7e9ec5-12c3-4810-8f3b-c846110ef303" "RR\_LYR.fits" %}}. Flexible Image Transport System (FITS) is a digital file format used to store, transmit, and manipulate scientific and other images. FITS is the most commonly used digital file format in astronomy. [DS9](http://hea-www.harvard.edu/RD/ds9/) is an application that supports these files and is [available for free](http://hea-www.harvard.edu/RD/ds9/). 
+**Electronic resources:** images of Crab Nebula from Einstein ({{% resource_link "ac732157-d36e-4be3-982e-7f8a23154f4f" "crab nebula Einstein" %}}), Chandra ({{% resource_link "4d8a02cc-a726-44fa-bce8-4b405efda3ed" "crab nebula Chandra" %}}), RR Lyrae FITS image, {{% resource_link "db7e9ec5-12c3-4810-8f3b-c846110ef303" "RR\_LYR.fits" %}}. Flexible Image Transport System (FITS) is a digital file format used to store, transmit, and manipulate scientific and other images. FITS is the most commonly used digital file format in astronomy. {{% resource_link "f717f1df-1a61-4c5d-9628-4dbf553ed68d" "DS9" %}} is an application that supports these files and is {{% resource_link "f717f1df-1a61-4c5d-9628-4dbf553ed68d" "available for free" %}}. 
 
 **Physical resources:** newspaper, meter sticks.
 

@@ -27,7 +27,7 @@ uid: 9c5d85af-fbcc-46a5-8685-bca2de9e6e88
 
 **Application of wave model of light: Doppler effect applet**
 
-- Students open applet: [Applet: Doppler Effect](http://www.lon-capa.org/~mmp/applist/doppler/d.htm)
+- Students open applet: {{% resource_link "684e4995-1d8b-48f4-b795-2cc9a6e04d0c" "Applet: Doppler Effect" %}}
 - After quick demonstration of applet, give student challenge:
 - Compare the wavelength observed by an observer standing at the right hand edge of the applet screen when waves reach them from four different sources which are (A) not moving, (B) moving toward observer, (C) moving away from observer, (D) moving perpendicular to observer. Compare these to the wavelength emitted from the source (measured by freezing simulation when the source is not moving).
     - Have students stop applet (ctrl-s) and actually make measurements by transferring the wavelength measurement to the edge of a piece of paper held up to the screen.
